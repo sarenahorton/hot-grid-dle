@@ -10,7 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-  color:#fff;
+  color: #fff;
   font: normal 100%/1.3 "Robot Slab", serif;
 }
 
@@ -40,6 +40,6 @@ figure {
   padding-left: 1rem;
 }
 
-.relative{
+.relative {
   position: relative;
 }
